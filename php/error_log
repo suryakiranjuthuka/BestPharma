@@ -1,0 +1,200 @@
+[10-Sep-2018 15:24:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function STR_TO_DATE() in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 25
+[10-Sep-2018 09:56:39 UTC] PHP Parse error:  Invalid numeric literal in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 18
+[10-Sep-2018 09:56:42 UTC] PHP Parse error:  Invalid numeric literal in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 18
+[10-Sep-2018 15:27:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function STR_TO_DATE() in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 25
+[10-Sep-2018 15:39:04 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:39:44 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:39:47 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:40:16 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:40:18 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:41:12 Asia/Kolkata] PHP Notice:  A non well formed numeric value encountered in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:44:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function STR_TO_DATE() in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:44:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function STR_TO_DATE() in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 15:44:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function STR_TO_DATE() in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 19
+[10-Sep-2018 17:27:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 10
+[10-Sep-2018 17:27:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 11
+[10-Sep-2018 17:27:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 12
+[10-Sep-2018 17:27:11 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[11-Sep-2018 09:06:19 UTC] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 4
+[11-Sep-2018 09:06:19 UTC] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 4
+[11-Sep-2018 09:06:47 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[11-Sep-2018 09:09:03 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[11-Sep-2018 09:09:06 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[11-Sep-2018 09:09:09 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[11-Sep-2018 09:24:59 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[11-Sep-2018 09:25:01 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[11-Sep-2018 09:33:27 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:33:27 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 09:37:26 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:37:26 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 09:43:34 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:43:34 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 09:44:02 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:44:02 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 09:47:34 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:47:34 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 09:47:38 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[11-Sep-2018 09:47:38 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[11-Sep-2018 11:34:47 UTC] PHP Parse error:  syntax error, unexpected '$_FILES' (T_VARIABLE) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[11-Sep-2018 11:34:53 UTC] PHP Parse error:  syntax error, unexpected '$_FILES' (T_VARIABLE) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[11-Sep-2018 11:35:16 UTC] PHP Parse error:  syntax error, unexpected '$prescription' (T_VARIABLE) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[11-Sep-2018 11:35:19 UTC] PHP Parse error:  syntax error, unexpected '$prescription' (T_VARIABLE) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[11-Sep-2018 12:03:19 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[11-Sep-2018 12:03:19 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[12-Sep-2018 04:39:00 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[12-Sep-2018 04:39:00 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[12-Sep-2018 12:53:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 12:53:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 12:53:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 12:53:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 12:53:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 12:54:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 12:54:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 12:54:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 12:54:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 12:54:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:16:48 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:16:48 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:16:48 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:16:48 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:16:48 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:16:59 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:16:59 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:16:59 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:16:59 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:16:59 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:18:56 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:18:56 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:18:56 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:18:56 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:18:56 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:19:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:19:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:19:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:19:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:19:05 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:19:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:19:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:19:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:19:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:19:38 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 13:31:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 10
+[12-Sep-2018 13:31:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 11
+[12-Sep-2018 13:31:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 12
+[12-Sep-2018 13:31:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 13
+[12-Sep-2018 13:31:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/amblance_prebooking.php on line 14
+[12-Sep-2018 08:02:37 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[12-Sep-2018 08:02:37 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[12-Sep-2018 08:03:04 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[12-Sep-2018 08:03:04 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[12-Sep-2018 08:05:38 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[12-Sep-2018 08:05:38 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[12-Sep-2018 09:27:21 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[12-Sep-2018 09:27:21 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[17-Sep-2018 06:45:52 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[17-Sep-2018 06:48:04 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:51:26 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:51:26 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 19
+[17-Sep-2018 06:51:29 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:51:29 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 19
+[17-Sep-2018 06:52:25 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:52:25 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 06:53:39 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:53:39 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 06:53:55 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:53:55 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 06:55:42 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 06:55:42 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 07:19:50 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[17-Sep-2018 07:19:50 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:19:50 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 07:25:28 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[17-Sep-2018 07:25:28 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:25:28 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 07:34:40 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[17-Sep-2018 07:34:40 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:37:02 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[17-Sep-2018 07:37:02 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:54:03 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:54:03 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 07:54:06 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 07:54:06 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 08:06:52 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[17-Sep-2018 08:06:55 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 16
+[17-Sep-2018 08:07:36 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 08:07:36 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[17-Sep-2018 08:07:45 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 08:07:45 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[17-Sep-2018 09:17:22 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 19
+[17-Sep-2018 09:19:03 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 17
+[17-Sep-2018 09:20:06 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 19
+[17-Sep-2018 09:22:02 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 21
+[17-Sep-2018 09:22:08 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 21
+[17-Sep-2018 09:22:42 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 21
+[17-Sep-2018 09:22:47 UTC] PHP Notice:  Undefined variable: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 21
+[17-Sep-2018 09:48:04 UTC] PHP Notice:  Undefined variable: output in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 30
+[17-Sep-2018 09:56:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 21
+[17-Sep-2018 09:56:51 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 09:56:51 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 14
+[17-Sep-2018 09:56:51 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 19
+[17-Sep-2018 10:10:37 UTC] PHP Notice:  Undefined index: Optional in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 18
+[17-Sep-2018 10:10:37 UTC] PHP Notice:  Undefined variable: target_file_img in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 18
+[17-Sep-2018 10:13:10 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[17-Sep-2018 10:13:10 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 15
+[17-Sep-2018 10:13:10 UTC] PHP Notice:  Undefined index: FileToUpload in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 18
+[18-Sep-2018 11:02:01 UTC] PHP Parse error:  syntax error, unexpected '$uploaded' (T_VARIABLE) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 11
+[19-Sep-2018 08:14:26 UTC] PHP Parse error:  syntax error, unexpected '"</td></tr> "' (T_CONSTANT_ENCAPSED_STRING) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[19-Sep-2018 08:18:21 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 8
+[19-Sep-2018 08:18:21 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[19-Sep-2018 08:18:21 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
+[19-Sep-2018 08:28:43 UTC] PHP Notice:  Undefined variable: FILES in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 59
+[19-Sep-2018 09:02:33 UTC] PHP Notice:  Undefined variable: FILES in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 59
+[19-Sep-2018 10:14:47 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 4 given in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 58
+[19-Sep-2018 10:14:58 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 4 given in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 58
+[19-Sep-2018 10:16:06 UTC] PHP Notice:  Array to string conversion in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 58
+[19-Sep-2018 10:33:28 UTC] PHP Notice:  Array to string conversion in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 58
+[20-Sep-2018 07:46:32 UTC] PHP Notice:  Undefined variable: target_file in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[20-Sep-2018 07:52:24 UTC] PHP Notice:  Undefined variable: target_file in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[20-Sep-2018 11:16:56 UTC] PHP Notice:  Undefined variable: target_file in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[26-Sep-2018 16:54:54 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$name in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 10
+[26-Sep-2018 16:54:54 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$email in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 11
+[26-Sep-2018 16:54:54 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 12
+[26-Sep-2018 16:54:54 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$message in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[27-Sep-2018 12:48:26 UTC] PHP Notice:  Array to string conversion in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 59
+[27-Sep-2018 12:49:49 UTC] PHP Notice:  Array to string conversion in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 59
+[28-Sep-2018 12:15:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$select_service in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[28-Sep-2018 12:15:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$pincode in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 14
+[28-Sep-2018 12:15:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$city in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 16
+[28-Sep-2018 12:15:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$state in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 17
+[28-Sep-2018 12:17:39 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$select_service in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[28-Sep-2018 12:18:25 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$select_service in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[28-Sep-2018 12:27:53 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$select_service in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[28-Sep-2018 12:36:45 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$select_service in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/contact_form.php on line 13
+[28-Sep-2018 09:18:24 UTC] PHP Notice:  Undefined variable: name in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 25
+[28-Sep-2018 09:18:24 UTC] PHP Notice:  Undefined variable: email in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 25
+[28-Sep-2018 09:18:24 UTC] PHP Notice:  Undefined variable: apply_position in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 25
+[28-Sep-2018 09:18:24 UTC] PHP Notice:  Undefined variable: start_date in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 25
+[28-Sep-2018 09:18:24 UTC] PHP Notice:  Undefined variable: employe_status in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 25
+[28-Sep-2018 09:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'EMail' not found in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 26
+[28-Sep-2018 10:59:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 35
+[28-Sep-2018 10:59:17 UTC] PHP Notice:  Undefined index: phone in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 9
+[28-Sep-2018 10:59:17 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 10
+[28-Sep-2018 10:59:17 UTC] PHP Notice:  Undefined index: prescription in /home/tnt10052014/public_html/subdomains/bestpharma/_new2/php/prescription_upload.php on line 12
